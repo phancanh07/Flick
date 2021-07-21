@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1049691097292",
+    "firebase_url": "https://wallpaperhd-4f829-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wallpaperhd-4f829",
+    "storage_bucket": "wallpaperhd-4f829.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049691097292:android:2d5cbbd2c5ab37783e5a69",
+        "android_client_info": {
+          "package_name": "com.example.fickhd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049691097292-bval4444vhfn80gmnq8c0sr7541mhn8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDntYK_m_RCR0BJMtIIVgWSd8Bnm5WZVEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049691097292-bval4444vhfn80gmnq8c0sr7541mhn8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
